@@ -177,7 +177,7 @@ https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
 > https://www.linkedin.com/in/shreyansh-singh-18ab60310
 
 📧 Email
-> YOUR_EMAIL@gmail.com
+> shreyansh.singh.r06@gmail.com
 
 ---
 
