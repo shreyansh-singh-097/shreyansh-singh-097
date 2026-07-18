@@ -80,6 +80,98 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
+# 🚀 Featured Projects
+
+## 🎯 Quiz Application
+A responsive quiz platform built using HTML, CSS, JavaScript, Java, DBMS and DSA concepts.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+
+🔗 Repository:
+https://github.com/YOUR_GITHUB_USERNAME/quiz-app
+
+---
+
+## 📚 Library Management System
+
+A database-driven library management system that manages books, publishers, members and issue/return records.
+
+**Tech Stack**
+- SQL
+- MySQL
+- DBMS
+
+🔗 Repository:
+https://github.com/YOUR_GITHUB_USERNAME/library-management-system
+
+---
+
+## 🎉 Event Management Website
+
+A responsive event management website with modern UI and CSS animations.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository:
+https://github.com/YOUR_GITHUB_USERNAME/event-management
+
+---
+
+## 🤖 AI Sustainability Dashboard
+
+An AI-powered dashboard for visualizing sustainability metrics and analytics.
+
+**Tech Stack**
+- Python
+- Machine Learning
+- Data Visualization
+
+🔗 Repository:
+https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Team Lead – Smart India Hackathon
+- 💻 Active Competitive Programmer
+- 🌱 Passionate about AI, Machine Learning and Software Development
+- 🚀 Regularly building real-world projects
+
+---
+
+# 📜 Certifications
+
+| Certificate | Platform |
+|-------------|----------|
+| 🏅 SQL (Basic) | HackerRank |
+| 🏅 Full Stack Development | IBM |
+| 🏅 AI & Cloud Fundamentals | IBM |
+| 🏅 Spring Boot | Self Learning |
+| 🏅 AI/ML for Geodata | ISRO *(In Progress)* |
+
+---
+
+# 📂 Currently Working On
+
+- 🌱 Spring Boot
+- ☁️ Cloud Computing
+- 🤖 Machine Learning
+- 📊 Data Structures & Algorithms
+- 🚀 Open Source
+
+---
+
 ## 📫 Connect With Me
 
 💼 LinkedIn
