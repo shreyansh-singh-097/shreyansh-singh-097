@@ -143,7 +143,6 @@ https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
 
 # 🏆 Achievements
 
-- 🥇 Team Lead – Smart India Hackathon
 - 💻 Active Competitive Programmer
 - 🌱 Passionate about AI, Machine Learning and Software Development
 - 🚀 Regularly building real-world projects
