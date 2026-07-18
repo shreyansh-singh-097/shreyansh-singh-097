@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shreyansh-singh-097/shreyansh-singh-097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
 <h3 align="center">B.Tech CSE Student | Software Developer | AI & ML Enthusiast</h3>
 
