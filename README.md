@@ -1,19 +1,3 @@
-
-
-<!--
-**shreyansh-singh-097/shreyansh-singh-097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
 <h3 align="center">B.Tech CSE Student | Software Developer | AI & ML Enthusiast</h3>
 
@@ -112,34 +96,6 @@ https://github.com/YOUR_GITHUB_USERNAME/library-management-system
 
 ---
 
-## 🎉 Event Management Website
-
-A responsive event management website with modern UI and CSS animations.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/event-management
-
----
-
-## 🤖 AI Sustainability Dashboard
-
-An AI-powered dashboard for visualizing sustainability metrics and analytics.
-
-**Tech Stack**
-- Python
-- Machine Learning
-- Data Visualization
-
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
-
----
-
 # 🏆 Achievements
 
 - 💻 Active Competitive Programmer
@@ -153,13 +109,13 @@ https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
 | Certificate | Platform |
 |-------------|----------|
 | 🏅 SQL (Basic) | HackerRank |
+| 🏅 Professional Basics | TCS ION |
 | 🏅 Full Stack Development | IBM |
 | 🏅 AI & Cloud Fundamentals | IBM |
 | 🏅 Spring Boot | Self Learning |
 | 🏅 AI/ML for Geodata | ISRO *(In Progress)* |
 
 ---
-
 # 📂 Currently Working On
 
 - 🌱 Spring Boot
@@ -169,7 +125,6 @@ https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
 - 🚀 Open Source
 
 ---
-
 ## 📫 Connect With Me
 
 💼 LinkedIn
@@ -179,7 +134,6 @@ https://github.com/YOUR_GITHUB_USERNAME/ai-dashboard
 > shreyansh.singh.r06@gmail.com
 
 ---
-
 ### 💡 Quote
 
 > "Consistency beats talent when talent doesn't stay consistent."
