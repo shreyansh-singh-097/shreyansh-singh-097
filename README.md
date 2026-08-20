@@ -10,21 +10,6 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-🎓 B.Tech Computer Science & Engineering Student
-
-💻 Passionate about Software Development, AI & Machine Learning
-
-🌱 Currently learning **Spring Boot, Data Structures & Algorithms, and System Design**
-
-🤖 Interested in Artificial Intelligence, Data Science & Backend Development
-
-📚 Always learning new technologies and building real-world projects.
-
----
 
 ## 🛠 Tech Stack
 
@@ -51,80 +36,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
----
-
-## 📌 Current Focus
-
-- 🌱 Spring Boot
-- 💻 Data Structures & Algorithms
-- 🤖 Machine Learning
-- ☁️ Cloud Computing
-- 🚀 Open Source Contributions
 
 ---
 
----
-
-# 🚀 Featured Projects
-
-## 🎯 Quiz Application
-A responsive quiz platform built using HTML, CSS, JavaScript, Java, DBMS and DSA concepts.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-- Java
-- MySQL
-
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/quiz-app
-
----
-
-## 📚 Library Management System
-
-A database-driven library management system that manages books, publishers, members and issue/return records.
-
-**Tech Stack**
-- SQL
-- MySQL
-- DBMS
-
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/library-management-system
-
----
-
-# 🏆 Achievements
-
-- 💻 Active Competitive Programmer
-- 🌱 Passionate about AI, Machine Learning and Software Development
-- 🚀 Regularly building real-world projects
-
----
-
-# 📜 Certifications
-
-| Certificate | Platform |
-|-------------|----------|
-| 🏅 SQL (Basic) | HackerRank |
-| 🏅 Professional Basics | TCS ION |
-| 🏅 Full Stack Development | IBM |
-| 🏅 AI & Cloud Fundamentals | IBM |
-| 🏅 Spring Boot | Self Learning |
-| 🏅 AI/ML for Geodata | ISRO *(In Progress)* |
-
----
-# 📂 Currently Working On
-
-- 🌱 Spring Boot
-- ☁️ Cloud Computing
-- 🤖 Machine Learning
-- 📊 Data Structures & Algorithms
-- 🚀 Open Source
-
----
 ## 📫 Connect With Me
 
 💼 LinkedIn
