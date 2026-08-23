@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
+ <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
 <h3 align="center">B.Tech CSE Student | Software Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
@@ -52,4 +52,4 @@
 
 > "Consistency beats talent when talent doesn't stay consistent."
 
-⭐ Thanks for visiting my profile! -->
+⭐ Thanks for visiting my profile! 
